@@ -1,0 +1,31 @@
+preprints:
+- {
+    title: 'Regret Minimization and Convergence to Equilibria in General-sum Markov Games', 
+    authors: 'Liad Erez*, Tal Lancewicki*, Uri Sherman*, Tomer Koren, Yishay Mansour',
+    arxiv: 'https://arxiv.org/abs/2207.14211'
+  }
+- {
+    title: 'Benign Underfitting of Stochastic Gradient Descent', 
+    authors: 'Tomer Koren*, Roi Livni*, Yishay Mansour*, Uri Sherman*',
+    arxiv: 'https://arxiv.org/abs/2202.13361'
+  }
+
+publications:
+- {
+    title: 'Optimal Rates for Random Order Online Optimization', 
+    authors: 'Uri Sherman, Tomer Koren, Yishay Mansour',
+    arxiv: 'https://arxiv.org/abs/2106.15207',
+    conference: '<a href="https://neurips.cc/Conferences/2021" 
+                  style="text-decoration: none;" target="_blank">
+                  NeurIPS 2021
+                </a>  &nbsp;<span style="font-style:italic; font-weight:400">(Oral)</span>'
+  }
+- {
+    title: 'Lazy OCO: Online Convex Optimization on a Switching Budget', 
+    authors: 'Uri Sherman, Tomer Koren',
+    arxiv: 'https://arxiv.org/abs/2102.03803',
+    conference: '<a href="http://learningtheory.org/colt2021/" style="text-decoration: none;" target="_blank">COLT 2021</a>'
+  }
+
+
+

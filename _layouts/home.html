@@ -1,0 +1,92 @@
+---
+layout: default
+---
+
+<div class="row g-5 mb-5">
+  <div class="s-text col-md-8">
+    {{ content }}
+  </div>
+  <div class="col-md-4">
+    <img src="{{ site.github.url }}/assets/img/uri.jpg" alt="Home" width="95%">
+  </div>
+</div>
+
+<div class="row g-5 mb-4">
+    <div class="s-h2 pb-2 mb-2">Preprints</div>
+
+    {% for item in site.data.papers.preprints %}
+      <div class="row">
+        <div class="col-md-11">
+          <ul type="square">
+            <li>
+              <p> 
+                  <span class="s-pub">
+                    {{ item.title }}
+                  </span>
+                  <br>
+                  <span class="s-pub-auth">
+                    {{ item.authors }}
+                  </span>
+              </p>
+            </li>
+          </ul>
+        </div>
+        <div class="col-md-1"> <span class="s-pub-a">
+                    [<a href="{{ item.arxiv }}" 
+                    style="text-decoration: none;" target="_blank">Arxiv</a>]
+        </span></div>
+      </div>
+    {% endfor %}
+</div>
+
+<div class="row g-5 mb-3">
+    <div class="s-h2 pb-2 mb-2">Publications</div>
+    {% for item in site.data.papers.publications %}
+      <div class="row">
+        <div class="col-md-11">
+          <ul type="square">
+            <li>
+              <p> 
+                  <span class="s-pub">
+                    {{ item.title }}
+                  </span>
+                  <br>
+                  <span class="s-pub-auth">
+                    {{ item.authors }}
+                  </span>
+                  <br>
+                  <span class="s-pub-conf">
+                    {{ item.conference }}
+                  </span>
+              </p>
+            </li>
+          </ul>
+        </div>
+        <div class="col-md-1"> <span class="s-pub-a">
+                    [<a href="{{ item.arxiv }}" 
+                    style="text-decoration: none;" target="_blank">Arxiv</a>]
+        </span></div>
+      </div>
+    {% endfor %}
+
+</div>
+
+<div class="pb-2 mb-5">
+  <span class="s-pub-auth">(* indicates equal contribution or alphabetical ordering)</span>
+</div>
+
+<div class="row g-5 mb-5">
+  <div>
+    <div class="s-h2 pb-2 mb-2">Teaching</div>
+    <ul type = "square">
+        <li>
+          <p> 
+              <span class="s-teach">
+                <span style="font-weight: 500;">Introduction to Optimization for Computer Science</span> 0368-3273, Tel Aviv University, Spring 2022 (TA)
+              </span>
+          </p>
+        </li>
+    </ul>
+  </div>
+</div>
+
