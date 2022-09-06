@@ -13,21 +13,21 @@ I obtained my B.Sc. in Mathematics from Tel Aviv University, and an M.Sc. in Com
 
 For a list of publications see below or on my <a href="https://scholar.google.com/citations?user=vYLNp6cAAAAJ&hl=en" target="_blank">google scholar</a> profile.
 
-Contact: 
-        <span style="font-size: 14 ; font-weight: 600;"> urishe
-          <span style="font-weight: 300; font-size: 10pt; ">&nbsp;at&nbsp;</span> 
-          gmail 
-          <span style="font-weight: 300; font-size: 10pt; ">&nbsp;dot&nbsp;</span> 
-          com
-        </span> &nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp; 
-        <span style="font-size: 14 ; font-weight: 600;"> urisherman 
-          <span style="font-weight: 300; font-size: 10pt; ">&nbsp;at&nbsp;</span> 
-          mail 
-          <span style="font-weight: 300; font-size: 10pt; ">&nbsp;dot&nbsp;</span> 
-          tau
-          <span style="font-weight: 300; font-size: 10pt; ">&nbsp;dot&nbsp;</span> 
-          ac
-          <span style="font-weight: 300; font-size: 10pt; ">&nbsp;dot&nbsp;</span> 
-          il
-        </span>
+Contact:
+<span style="font-size: 14 ; font-weight: 600;"> urishe
+  <span style="font-weight: 300; font-size: 10pt; ">at</span> 
+  gmail 
+  <span style="font-weight: 300; font-size: 10pt; ">dot</span> 
+  com
+</span> &nbsp;&nbsp;/&nbsp;&nbsp; 
+<span style="font-size: 14 ; font-weight: 600;"> urisherman 
+  <span style="font-weight: 300; font-size: 10pt; ">at</span> 
+  mail 
+  <span style="font-weight: 300; font-size: 10pt; ">dot</span> 
+  tau
+  <span style="font-weight: 300; font-size: 10pt; ">dot</span> 
+  ac
+  <span style="font-weight: 300; font-size: 10pt; ">dot</span> 
+  il
+</span>
       
