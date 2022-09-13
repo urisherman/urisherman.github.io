@@ -1,4 +1,10 @@
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
-title: "Uri Sherman" # the name of your site, e.g. ACME Corp.
-description: ""
+url: "https://urisherman.github.io/" 
+baseurl: "" 
+title: "Uri Sherman | Homepage"
+description: "Academic homepage of Uri Sherman | Computer Science PhD candidate at Tel Aviv University, working on machine learning, stochastic optimization, and reinforcement learning"
+author:
+  name: Uri Sherman
+  url: https://urisherman.github.io/
+
+plugins:
+  - jekyll-seo-tag
