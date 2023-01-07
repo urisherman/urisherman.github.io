@@ -11,7 +11,7 @@ publications:
     title: 'Benign Underfitting of Stochastic Gradient Descent', 
     authors: 'Tomer Koren*, Roi Livni*, Yishay Mansour*, Uri Sherman*',
     arxiv: 'https://arxiv.org/abs/2202.13361',
-    conference: 'To appear in <a href="https://neurips.cc/Conferences/2022" 
+    conference: '<a href="https://neurips.cc/Conferences/2022" 
                   style="text-decoration: none;" target="_blank">
                   NeurIPS 2022
                 </a>'
