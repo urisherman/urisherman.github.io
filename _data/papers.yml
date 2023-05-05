@@ -2,7 +2,6 @@ preprints:
 
 
 
-
 publications:
 - {
     title: 'Improved Regret for Efficient Online Reinforcement Learning with Linear Function Approximation', 
@@ -11,7 +10,7 @@ publications:
     conference: '<a href="https://icml.cc/Conferences/2023" 
                   style="text-decoration: none;" target="_blank">
                   ICML 2023
-                </a>'
+                </a> (to appear)'
   }
 - {
     title: 'Regret Minimization and Convergence to Equilibria in General-sum Markov Games', 
@@ -20,7 +19,7 @@ publications:
     conference: '<a href="https://icml.cc/Conferences/2023" 
                   style="text-decoration: none;" target="_blank">
                   ICML 2023
-                </a>'
+                </a> (to appear)'
   }
 - {
     title: 'Benign Underfitting of Stochastic Gradient Descent', 
