@@ -1,17 +1,27 @@
 preprints:
+
+
+
+
+publications:
 - {
     title: 'Improved Regret for Efficient Online Reinforcement Learning with Linear Function Approximation', 
     authors: 'Uri Sherman, Tomer Koren, Yishay Mansour',
-    arxiv: 'https://arxiv.org/abs/2301.13087'
+    arxiv: 'https://arxiv.org/abs/2301.13087',
+    conference: '<a href="https://icml.cc/Conferences/2023" 
+                  style="text-decoration: none;" target="_blank">
+                  ICML 2023
+                </a>'
   }
 - {
     title: 'Regret Minimization and Convergence to Equilibria in General-sum Markov Games', 
     authors: 'Liad Erez*, Tal Lancewicki*, Uri Sherman*, Tomer Koren, Yishay Mansour',
-    arxiv: 'https://arxiv.org/abs/2207.14211'
+    arxiv: 'https://arxiv.org/abs/2207.14211',
+    conference: '<a href="https://icml.cc/Conferences/2023" 
+                  style="text-decoration: none;" target="_blank">
+                  ICML 2023
+                </a>'
   }
-
-
-publications:
 - {
     title: 'Benign Underfitting of Stochastic Gradient Descent', 
     authors: 'Tomer Koren*, Roi Livni*, Yishay Mansour*, Uri Sherman*',
