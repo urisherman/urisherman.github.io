@@ -1,5 +1,9 @@
 preprints:
-
+- {
+    title: 'Rate-Optimal Policy Optimization for Linear Markov Decision Processes', 
+    authors: 'Uri Sherman, ALon Cohen, Tomer Koren, Yishay Mansour',
+    arxiv: 'https://arxiv.org/abs/2308.14642',
+  }
 
 
 publications:
@@ -10,7 +14,7 @@ publications:
     conference: '<a href="https://icml.cc/Conferences/2023" 
                   style="text-decoration: none;" target="_blank">
                   ICML 2023
-                </a> (to appear)'
+                </a>'
   }
 - {
     title: 'Regret Minimization and Convergence to Equilibria in General-sum Markov Games', 
@@ -19,7 +23,7 @@ publications:
     conference: '<a href="https://icml.cc/Conferences/2023" 
                   style="text-decoration: none;" target="_blank">
                   ICML 2023
-                </a> (to appear)'
+                </a>'
   }
 - {
     title: 'Benign Underfitting of Stochastic Gradient Descent', 
