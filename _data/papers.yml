@@ -1,5 +1,10 @@
 preprints:
 - {
+    title: 'The Dimension Strikes Back with Gradients: Generalization of Gradient Methods in Stochastic Convex Optimization', 
+    authors: 'Matan Schliserman, Uri Sherman, Tomer Koren',
+    arxiv: 'https://arxiv.org/abs/2401.12058',
+  }
+- {
     title: 'Rate-Optimal Policy Optimization for Linear Markov Decision Processes', 
     authors: 'Uri Sherman, Alon Cohen, Tomer Koren, Yishay Mansour',
     arxiv: 'https://arxiv.org/abs/2308.14642',
