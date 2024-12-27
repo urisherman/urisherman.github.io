@@ -1,11 +1,25 @@
 preprints:
+# - {
+#     title: 'The Dimension Strikes Back with Gradients: Generalization of Gradient Methods in Stochastic Convex Optimization', 
+#     authors: 'Matan Schliserman, Uri Sherman, Tomer Koren',
+#     arxiv: 'https://arxiv.org/abs/2401.12058',
+#   }
+publications:
 - {
     title: 'The Dimension Strikes Back with Gradients: Generalization of Gradient Methods in Stochastic Convex Optimization', 
     authors: 'Matan Schliserman, Uri Sherman, Tomer Koren',
     arxiv: 'https://arxiv.org/abs/2401.12058',
-  }
+    conference: 
+    ['<a href="http://algorithmiclearningtheory.org/alt2025/" 
+                  style="text-decoration: none;" target="_blank">
+                  ALT 2025
+                </a>',
+    '<a href="https://neurips.cc/virtual/2024/workshop/84732" 
+                  style="text-decoration: none;" target="_blank">
+                  Optimization for ML Workshop @ NeurIPS 2024
+                </a> &nbsp;<span style="font-style:italic; font-weight:400">(Oral)</span>']
 
-publications:
+  }
 - {
     title: 'Rate-Optimal Policy Optimization for Linear Markov Decision Processes', 
     authors: 'Uri Sherman, Alon Cohen, Tomer Koren, Yishay Mansour',

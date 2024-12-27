@@ -3,10 +3,13 @@
     <!-- <a href="{{ site.github.url }}/" class="d-flex align-items-center text-decoration-none"> -->
       <span class="fs-2" style="font-family: 'Montserrat'; font-weight: 400; font-size: 20pt;">Uri Sherman</span>
     <!-- </a> -->
-      
-    <!-- <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
-      
+
+    <!-- <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto" style="float: right;">
+      {% for item in site.data.settings.menu %}
+        <a class="me-3 py-2 text-decoration-none" href="{{ site.github.url }}{{ item.url }}">{{ item.name }}</a>
+      {% endfor %}
     </nav> -->
   </div>
+
  
 </header>

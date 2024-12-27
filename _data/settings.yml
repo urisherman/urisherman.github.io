@@ -1,0 +1,3 @@
+menu:
+- {name: 'blog', url: '/blog'}
+- {name: 'cv', url: '/cv'}

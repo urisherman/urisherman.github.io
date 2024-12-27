@@ -1,6 +1,6 @@
 $backgroundColor: #ffffff;
 $bodyColor: #000000;
-$linkColor: #2a93de !important;
+$linkColor: #4377c6 !important;
 
 body {
   background: $backgroundColor;
@@ -9,7 +9,9 @@ body {
 }
 
 body a {
-  color: $linkColor
+  color: $linkColor;
+  font-weight: 400;
+  text-decoration: none;
 }
 
 // .square {

@@ -13,7 +13,20 @@ layout: default
 
 <div class="row g-5 mb-4">
     <div class="s-h2 pb-2 mb-2">Preprints</div>
-
+    
+    <div class="row">
+      <div class="col-md-11">
+        <ul style="list-style: none;">
+          <li>
+            <p> 
+                <span class="s-pub">
+                  ...
+                </span>
+            </p>
+          </li>
+        </ul>
+      </div>
+    </div>
     {% for item in site.data.papers.preprints %}
       <div class="row">
         <div class="col-md-11">
@@ -54,10 +67,12 @@ layout: default
                   <span class="s-pub-auth">
                     {{ item.authors }}
                   </span>
-                  <br>
-                  <span class="s-pub-conf">
-                    {{ item.conference }}
-                  </span>
+                  {% for conf in item.conference %}
+                    <br>
+                    <span class="s-pub-conf">
+                      {{ conf }}
+                    </span>
+                  {% endfor %}
               </p>
             </li>
           </ul>
