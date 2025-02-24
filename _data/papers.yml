@@ -1,9 +1,9 @@
 preprints:
-# - {
-#     title: 'The Dimension Strikes Back with Gradients: Generalization of Gradient Methods in Stochastic Convex Optimization', 
-#     authors: 'Matan Schliserman, Uri Sherman, Tomer Koren',
-#     arxiv: 'https://arxiv.org/abs/2401.12058',
-#   }
+- {
+    title: 'Convergence of Policy Mirror Descent Beyond Compatible Function Approximation', 
+    authors: 'Uri Sherman, Tomer Koren, Yishay Mansour',
+    arxiv: 'https://arxiv.org/abs/2502.11033',
+  }
 publications:
 - {
     title: 'The Dimension Strikes Back with Gradients: Generalization of Gradient Methods in Stochastic Convex Optimization', 
