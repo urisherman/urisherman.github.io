@@ -13,7 +13,7 @@ layout: default
 
 <div class="row g-5 mb-4">
     <div class="s-h2 pb-2 mb-2">Preprints</div>
-    
+    {% if site.data.papers.preprints == empty %}
     <div class="row">
       <div class="col-md-11">
         <ul style="list-style: none;">
@@ -27,6 +27,7 @@ layout: default
         </ul>
       </div>
     </div>
+    {% endif %}
     {% for item in site.data.papers.preprints %}
       <div class="row">
         <div class="col-md-11">
