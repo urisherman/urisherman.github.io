@@ -13,7 +13,7 @@ publications:
     ['<a href="http://algorithmiclearningtheory.org/alt2025/" 
                   style="text-decoration: none;" target="_blank">
                   ALT 2025
-                </a>',
+                </a> &nbsp;<span style="font-style:italic; font-weight:400">(Outstanding paper award)</span>',
     '<a href="https://neurips.cc/virtual/2024/workshop/84732" 
                   style="text-decoration: none;" target="_blank">
                   Optimization for ML Workshop @ NeurIPS 2024
