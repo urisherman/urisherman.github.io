@@ -1,5 +1,10 @@
 preprints:
 - {
+    title: 'Better Rates for Random Task Orderings in Continual Linear Models', 
+    authors: 'Itay Evron*, Ran Levinstein*, Matan Schliserman*, Uri Sherman*, Tomer Koren, Daniel Soudry, Nathan Srebro',
+    arxiv: 'https://arxiv.org/abs/2504.04579',
+  }
+- {
     title: 'Convergence of Policy Mirror Descent Beyond Compatible Function Approximation', 
     authors: 'Uri Sherman, Tomer Koren, Yishay Mansour',
     arxiv: 'https://arxiv.org/abs/2502.11033',
