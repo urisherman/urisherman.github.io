@@ -4,12 +4,16 @@ preprints:
     authors: 'Itay Evron*, Ran Levinstein*, Matan Schliserman*, Uri Sherman*, Tomer Koren, Daniel Soudry, Nathan Srebro',
     arxiv: 'https://arxiv.org/abs/2504.04579',
   }
+publications:
 - {
     title: 'Convergence of Policy Mirror Descent Beyond Compatible Function Approximation', 
     authors: 'Uri Sherman, Tomer Koren, Yishay Mansour',
     arxiv: 'https://arxiv.org/abs/2502.11033',
+    conference: '<a href="https://icml.cc/Conferences/2025" 
+                  style="text-decoration: none;" target="_blank">
+                  ICML 2025
+                </a>'
   }
-publications:
 - {
     title: 'The Dimension Strikes Back with Gradients: Generalization of Gradient Methods in Stochastic Convex Optimization', 
     authors: 'Matan Schliserman, Uri Sherman, Tomer Koren',
