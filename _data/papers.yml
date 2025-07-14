@@ -1,5 +1,15 @@
 preprints:
 - {
+    title: 'Convergence and Sample Complexity of First-Order Methods for Agnostic Reinforcement Learning', 
+    authors: 'Uri Sherman, Tomer Koren, Yishay Mansour',
+    arxiv: 'https://arxiv.org/abs/2507.04406',
+  }
+- {
+    title: 'Optimal Rates in Continual Linear Regression via Increasing Regularization', 
+    authors: 'Ran Levinstein*, Amit Attia*, Matan Schliserman*, Uri Sherman*, Tomer Koren, Daniel Soudry, Itay Evron',
+    arxiv: 'https://arxiv.org/abs/2506.06501',
+  }
+- {
     title: 'Better Rates for Random Task Orderings in Continual Linear Models', 
     authors: 'Itay Evron*, Ran Levinstein*, Matan Schliserman*, Uri Sherman*, Tomer Koren, Daniel Soudry, Nathan Srebro',
     arxiv: 'https://arxiv.org/abs/2504.04579',
