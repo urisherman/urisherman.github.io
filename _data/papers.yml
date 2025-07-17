@@ -1,5 +1,10 @@
 preprints:
 - {
+    title: 'Fast Last-Iterate Convergence of SGD in the Smooth Interpolation Regime', 
+    authors: 'Amit Attia, Matan Schliserman, Uri Sherman, Tomer Koren',
+    arxiv: 'https://arxiv.org/abs/2507.11274',
+  }
+- {
     title: 'Convergence and Sample Complexity of First-Order Methods for Agnostic Reinforcement Learning', 
     authors: 'Uri Sherman, Tomer Koren, Yishay Mansour',
     arxiv: 'https://arxiv.org/abs/2507.04406',
