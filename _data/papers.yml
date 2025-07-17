@@ -15,7 +15,7 @@ preprints:
     arxiv: 'https://arxiv.org/abs/2506.06501',
   }
 - {
-    title: 'Better Rates for Random Task Orderings in Continual Linear Models', 
+    title: 'From Continual Learning to SGD and Back: Better Rates for Continual Linear Models', 
     authors: 'Itay Evron*, Ran Levinstein*, Matan Schliserman*, Uri Sherman*, Tomer Koren, Daniel Soudry, Nathan Srebro',
     arxiv: 'https://arxiv.org/abs/2504.04579',
   }
